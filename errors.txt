@@ -1,0 +1,10 @@
+TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+    at Function.invokeGetter (<anonymous>:2:14)
+
+
+
+caller: [Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at Function.invokeGetter (<anonymous>:2:14)]
+
+
+
+{"access_token":"BQBTH6EuiTxPIXke6gEQkYTMiGrCxY1gYnOaXK5UTGMIcGnq2ZH842TsLrFZcPkhCBZDA_w9z2tsDyHIuRAhbbE9Sg6Ki_AbFz5BL_OWqHIwA1nOB4by6hKZaGKHISY0RanjO-ivA06VcbJ0QEQYZnBHeJ5Qym4PZSE_"}

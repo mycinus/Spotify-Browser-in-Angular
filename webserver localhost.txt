@@ -1,0 +1,4 @@
+{"country":"US","display_name":"mycinus11224","email":"mycinus11224@gmail.com","explicit_content":{"filter_enabled":false,"filter_locked":false},"external_urls":{"spotify":"https://open.spotify.com/user/mycinus11224"},"followers":{"href":null,"total":1},"href":"https://api.spotify.com/v1/users/mycinus11224","id":"mycinus11224","images":[{"height":null,"url":"https://profile-images.scdn.co/images/userprofile/default/4648ee5b659098538aa2de37a2f0f9610dfffeff","width":null}],"product":"premium","type":"user","uri":"spotify:user:mycinus11224"}
+
+
+
