@@ -5,7 +5,7 @@ import { ResourceData } from '../../data/resource-data';
 @Component({
   selector: 'app-carousel-card',
   templateUrl: './carousel-card.component.html',
-  styleUrls: ['./carousel-card.component.css']
+  styleUrls: ['./carousel-card.component.scss']
 })
 export class CarouselCardComponent implements OnInit {
   @Input() resource:ResourceData;
